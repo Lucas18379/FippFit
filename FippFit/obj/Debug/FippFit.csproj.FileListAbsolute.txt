@@ -1,0 +1,40 @@
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\bin\Debug\FippFit.exe.config
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\bin\Debug\FippFit.exe
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\bin\Debug\FippFit.pdb
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.frmFippFit.resources
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.Properties.Resources.resources
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.csproj.GenerateResource.Cache
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.exe
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.pdb
+C:\Users\Lucas\documents\visual studio 2017\Projects\FippFit\FippFit\obj\Debug\FippFit.Busca.resources
+H:\LP II\FippFit\FippFit\bin\Debug\FippFit.exe.config
+H:\LP II\FippFit\FippFit\bin\Debug\FippFit.exe
+H:\LP II\FippFit\FippFit\bin\Debug\FippFit.pdb
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.csprojResolveAssemblyReference.cache
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.Busca.resources
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.frmFippFit.resources
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.Properties.Resources.resources
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.csproj.GenerateResource.Cache
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.exe
+H:\LP II\FippFit\FippFit\obj\Debug\FippFit.pdb
+F:\LP II\FippFit\FippFit\bin\Debug\FippFit.exe.config
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.exe
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.pdb
+F:\LP II\FippFit\FippFit\bin\Debug\FippFit.exe
+F:\LP II\FippFit\FippFit\bin\Debug\FippFit.pdb
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.csprojResolveAssemblyReference.cache
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.Busca.resources
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.frmFippFit.resources
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.Properties.Resources.resources
+F:\LP II\FippFit\FippFit\obj\Debug\FippFit.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\bin\Debug\FippFit.exe.config
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\bin\Debug\FippFit.exe
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\bin\Debug\FippFit.pdb
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.Busca.resources
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.frmFippFit.resources
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.exe
+C:\Users\Lucas\Desktop\Nova pasta\FippFit\FippFit\obj\Debug\FippFit.pdb
